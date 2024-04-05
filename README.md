@@ -37,4 +37,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - This Shoe Inventory Management System was created as a simple solution for managing shoe inventory for small businesses.
-- Special thanks to contributors who have helped improve and maintain this project.
