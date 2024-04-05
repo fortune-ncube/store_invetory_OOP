@@ -21,7 +21,7 @@ The Shoe Inventory Management System is a simple program designed to help manage
 ## Usage
 
 1. Run the program:
-```python shoe_inventory.py```
+```python inventory.py```
 2. Choose from the available options to perform actions such as capturing shoes, viewing inventory, restocking, etc.
 
 ## Data Persistence
