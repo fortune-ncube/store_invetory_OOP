@@ -1,10 +1,8 @@
-# STORE INVENTORY SYSTEM
+# STORE INVENTORY MANAGEMENT SYSTEM
 ## Introduction
 
 A store with various types of shoes needs an inventory system to keep track of the stock they have with its prices, SKU numbers, availability, etc.
 Python classes were used to design this system.
-
-# Shoe Inventory Management System
 
 The Shoe Inventory Management System is a simple program designed to help manage shoe inventory for a store. It allows users to capture new shoes into inventory, view all shoes, restock shoes, change the cost of a shoe, search for a specific shoe, display the stock value of each shoe, and display shoes for sale based on the highest quantity available.
 
